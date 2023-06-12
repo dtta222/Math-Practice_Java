@@ -92,6 +92,6 @@ public class Math {
         System.out.println(op);
         System.out.println(num2);
         System.out.println("-----");
-        System.out.println(answer);
+        //System.out.println(answer);
     }
 }
